@@ -1,0 +1,1 @@
+This repository contains MATLAB scripts implementing a Quantum Reinforcement Learning algorithm for a one-qubit system. The goal is to find the eigenstates of an unknown Hamiltonian under noise. Alg_sq_ad.m models the system with amplitude damping, and Alg_sq_pd.m with phase damping. The algorithm learns through interaction, saves fidelity data, and generates performance plots
